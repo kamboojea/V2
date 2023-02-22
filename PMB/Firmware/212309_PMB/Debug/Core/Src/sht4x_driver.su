@@ -1,0 +1,5 @@
+../Core/Src/sht4x_driver.c:24:19:sht4x_init	0	static
+../Core/Src/sht4x_driver.c:32:19:sht4x_start_temperature_humidity_measurement	24	static
+../Core/Src/sht4x_driver.c:39:19:sht4x_read_temperature_measurement	32	static
+../Core/Src/sht4x_driver.c:49:19:sht4x_read_humidity_measurement	32	static
+../Core/Src/sht4x_driver.c:59:19:sht4x_soft_reset	24	static
